@@ -1,0 +1,68 @@
+D:\Desktop\Cartellone\CyberSecurity\Primo Anno\Primo Semestre\Statistics\HW7\HW7\obj\Debug\net6.0-windows\HW7.csproj.AssemblyReference.cache
+D:\Desktop\Cartellone\CyberSecurity\Primo Anno\Primo Semestre\Statistics\HW7\HW7\obj\Debug\net6.0-windows\HW7.Form1.resources
+D:\Desktop\Cartellone\CyberSecurity\Primo Anno\Primo Semestre\Statistics\HW7\HW7\obj\Debug\net6.0-windows\HW7.csproj.GenerateResource.cache
+D:\Desktop\Cartellone\CyberSecurity\Primo Anno\Primo Semestre\Statistics\HW7\HW7\obj\Debug\net6.0-windows\HW7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Cartellone\CyberSecurity\Primo Anno\Primo Semestre\Statistics\HW7\HW7\obj\Debug\net6.0-windows\HW7.AssemblyInfoInputs.cache
+D:\Desktop\Cartellone\CyberSecurity\Primo Anno\Primo Semestre\Statistics\HW7\HW7\obj\Debug\net6.0-windows\HW7.AssemblyInfo.cs
+D:\Desktop\Cartellone\CyberSecurity\Primo Anno\Primo Semestre\Statistics\HW7\HW7\obj\Debug\net6.0-windows\HW7.csproj.CoreCompileInputs.cache
+D:\Desktop\Cartellone\CyberSecurity\Primo Anno\Primo Semestre\Statistics\HW7\HW7\bin\Debug\net6.0-windows\HW7.exe
+D:\Desktop\Cartellone\CyberSecurity\Primo Anno\Primo Semestre\Statistics\HW7\HW7\bin\Debug\net6.0-windows\HW7.deps.json
+D:\Desktop\Cartellone\CyberSecurity\Primo Anno\Primo Semestre\Statistics\HW7\HW7\bin\Debug\net6.0-windows\HW7.runtimeconfig.json
+D:\Desktop\Cartellone\CyberSecurity\Primo Anno\Primo Semestre\Statistics\HW7\HW7\bin\Debug\net6.0-windows\HW7.dll
+D:\Desktop\Cartellone\CyberSecurity\Primo Anno\Primo Semestre\Statistics\HW7\HW7\bin\Debug\net6.0-windows\HW7.pdb
+D:\Desktop\Cartellone\CyberSecurity\Primo Anno\Primo Semestre\Statistics\HW7\HW7\obj\Debug\net6.0-windows\HW7.dll
+D:\Desktop\Cartellone\CyberSecurity\Primo Anno\Primo Semestre\Statistics\HW7\HW7\obj\Debug\net6.0-windows\refint\HW7.dll
+D:\Desktop\Cartellone\CyberSecurity\Primo Anno\Primo Semestre\Statistics\HW7\HW7\obj\Debug\net6.0-windows\HW7.pdb
+D:\Desktop\Cartellone\CyberSecurity\Primo Anno\Primo Semestre\Statistics\HW7\HW7\obj\Debug\net6.0-windows\HW7.genruntimeconfig.cache
+D:\Desktop\Cartellone\CyberSecurity\Primo Anno\Primo Semestre\Statistics\HW7\HW7\obj\Debug\net6.0-windows\ref\HW7.dll
+C:\Users\irene\Desktop\HW7\HW7\bin\Debug\net6.0-windows\HW7.exe
+C:\Users\irene\Desktop\HW7\HW7\bin\Debug\net6.0-windows\HW7.deps.json
+C:\Users\irene\Desktop\HW7\HW7\bin\Debug\net6.0-windows\HW7.runtimeconfig.json
+C:\Users\irene\Desktop\HW7\HW7\bin\Debug\net6.0-windows\HW7.dll
+C:\Users\irene\Desktop\HW7\HW7\bin\Debug\net6.0-windows\HW7.pdb
+C:\Users\irene\Desktop\HW7\HW7\obj\Debug\net6.0-windows\HW7.csproj.AssemblyReference.cache
+C:\Users\irene\Desktop\HW7\HW7\obj\Debug\net6.0-windows\HW7.Form1.resources
+C:\Users\irene\Desktop\HW7\HW7\obj\Debug\net6.0-windows\HW7.csproj.GenerateResource.cache
+C:\Users\irene\Desktop\HW7\HW7\obj\Debug\net6.0-windows\HW7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irene\Desktop\HW7\HW7\obj\Debug\net6.0-windows\HW7.AssemblyInfoInputs.cache
+C:\Users\irene\Desktop\HW7\HW7\obj\Debug\net6.0-windows\HW7.AssemblyInfo.cs
+C:\Users\irene\Desktop\HW7\HW7\obj\Debug\net6.0-windows\HW7.csproj.CoreCompileInputs.cache
+C:\Users\irene\Desktop\HW7\HW7\obj\Debug\net6.0-windows\HW7.dll
+C:\Users\irene\Desktop\HW7\HW7\obj\Debug\net6.0-windows\refint\HW7.dll
+C:\Users\irene\Desktop\HW7\HW7\obj\Debug\net6.0-windows\HW7.pdb
+C:\Users\irene\Desktop\HW7\HW7\obj\Debug\net6.0-windows\HW7.genruntimeconfig.cache
+C:\Users\irene\Desktop\HW7\HW7\obj\Debug\net6.0-windows\ref\HW7.dll
+C:\Users\byaxe\OneDrive\Desktop\HW7\HW7\bin\Debug\net6.0-windows\HW7.exe
+C:\Users\byaxe\OneDrive\Desktop\HW7\HW7\bin\Debug\net6.0-windows\HW7.deps.json
+C:\Users\byaxe\OneDrive\Desktop\HW7\HW7\bin\Debug\net6.0-windows\HW7.runtimeconfig.json
+C:\Users\byaxe\OneDrive\Desktop\HW7\HW7\bin\Debug\net6.0-windows\HW7.dll
+C:\Users\byaxe\OneDrive\Desktop\HW7\HW7\bin\Debug\net6.0-windows\HW7.pdb
+C:\Users\byaxe\OneDrive\Desktop\HW7\HW7\obj\Debug\net6.0-windows\HW7.csproj.AssemblyReference.cache
+C:\Users\byaxe\OneDrive\Desktop\HW7\HW7\obj\Debug\net6.0-windows\HW7.Form1.resources
+C:\Users\byaxe\OneDrive\Desktop\HW7\HW7\obj\Debug\net6.0-windows\HW7.csproj.GenerateResource.cache
+C:\Users\byaxe\OneDrive\Desktop\HW7\HW7\obj\Debug\net6.0-windows\HW7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\byaxe\OneDrive\Desktop\HW7\HW7\obj\Debug\net6.0-windows\HW7.AssemblyInfoInputs.cache
+C:\Users\byaxe\OneDrive\Desktop\HW7\HW7\obj\Debug\net6.0-windows\HW7.AssemblyInfo.cs
+C:\Users\byaxe\OneDrive\Desktop\HW7\HW7\obj\Debug\net6.0-windows\HW7.csproj.CoreCompileInputs.cache
+C:\Users\byaxe\OneDrive\Desktop\HW7\HW7\obj\Debug\net6.0-windows\HW7.dll
+C:\Users\byaxe\OneDrive\Desktop\HW7\HW7\obj\Debug\net6.0-windows\refint\HW7.dll
+C:\Users\byaxe\OneDrive\Desktop\HW7\HW7\obj\Debug\net6.0-windows\HW7.pdb
+C:\Users\byaxe\OneDrive\Desktop\HW7\HW7\obj\Debug\net6.0-windows\HW7.genruntimeconfig.cache
+C:\Users\byaxe\OneDrive\Desktop\HW7\HW7\obj\Debug\net6.0-windows\ref\HW7.dll
+C:\Users\fraga\source\repos\StatisticsHomework22-23\Homeworks 7\HW7\bin\Debug\net6.0-windows\HW7.exe
+C:\Users\fraga\source\repos\StatisticsHomework22-23\Homeworks 7\HW7\bin\Debug\net6.0-windows\HW7.deps.json
+C:\Users\fraga\source\repos\StatisticsHomework22-23\Homeworks 7\HW7\bin\Debug\net6.0-windows\HW7.runtimeconfig.json
+C:\Users\fraga\source\repos\StatisticsHomework22-23\Homeworks 7\HW7\bin\Debug\net6.0-windows\HW7.dll
+C:\Users\fraga\source\repos\StatisticsHomework22-23\Homeworks 7\HW7\bin\Debug\net6.0-windows\HW7.pdb
+C:\Users\fraga\source\repos\StatisticsHomework22-23\Homeworks 7\HW7\obj\Debug\net6.0-windows\HW7.csproj.AssemblyReference.cache
+C:\Users\fraga\source\repos\StatisticsHomework22-23\Homeworks 7\HW7\obj\Debug\net6.0-windows\HW7.Form1.resources
+C:\Users\fraga\source\repos\StatisticsHomework22-23\Homeworks 7\HW7\obj\Debug\net6.0-windows\HW7.csproj.GenerateResource.cache
+C:\Users\fraga\source\repos\StatisticsHomework22-23\Homeworks 7\HW7\obj\Debug\net6.0-windows\HW7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fraga\source\repos\StatisticsHomework22-23\Homeworks 7\HW7\obj\Debug\net6.0-windows\HW7.AssemblyInfoInputs.cache
+C:\Users\fraga\source\repos\StatisticsHomework22-23\Homeworks 7\HW7\obj\Debug\net6.0-windows\HW7.AssemblyInfo.cs
+C:\Users\fraga\source\repos\StatisticsHomework22-23\Homeworks 7\HW7\obj\Debug\net6.0-windows\HW7.csproj.CoreCompileInputs.cache
+C:\Users\fraga\source\repos\StatisticsHomework22-23\Homeworks 7\HW7\obj\Debug\net6.0-windows\HW7.dll
+C:\Users\fraga\source\repos\StatisticsHomework22-23\Homeworks 7\HW7\obj\Debug\net6.0-windows\refint\HW7.dll
+C:\Users\fraga\source\repos\StatisticsHomework22-23\Homeworks 7\HW7\obj\Debug\net6.0-windows\HW7.pdb
+C:\Users\fraga\source\repos\StatisticsHomework22-23\Homeworks 7\HW7\obj\Debug\net6.0-windows\HW7.genruntimeconfig.cache
+C:\Users\fraga\source\repos\StatisticsHomework22-23\Homeworks 7\HW7\obj\Debug\net6.0-windows\ref\HW7.dll
