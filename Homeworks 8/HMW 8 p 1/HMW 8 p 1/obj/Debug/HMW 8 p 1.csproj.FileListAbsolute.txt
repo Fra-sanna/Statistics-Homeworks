@@ -1,0 +1,11 @@
+C:\Users\fraga\source\repos\HMW 8 p 1\HMW 8 p 1\bin\Debug\HMW 8 p 1.exe.config
+C:\Users\fraga\source\repos\HMW 8 p 1\HMW 8 p 1\bin\Debug\HMW 8 p 1.exe
+C:\Users\fraga\source\repos\HMW 8 p 1\HMW 8 p 1\bin\Debug\HMW 8 p 1.pdb
+C:\Users\fraga\source\repos\HMW 8 p 1\HMW 8 p 1\obj\Debug\HMW 8 p 1.csproj.AssemblyReference.cache
+C:\Users\fraga\source\repos\HMW 8 p 1\HMW 8 p 1\obj\Debug\HMW 8 p 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\fraga\source\repos\HMW 8 p 1\HMW 8 p 1\obj\Debug\HMW_8_p_1.Form1.resources
+C:\Users\fraga\source\repos\HMW 8 p 1\HMW 8 p 1\obj\Debug\HMW_8_p_1.Properties.Resources.resources
+C:\Users\fraga\source\repos\HMW 8 p 1\HMW 8 p 1\obj\Debug\HMW 8 p 1.csproj.GenerateResource.cache
+C:\Users\fraga\source\repos\HMW 8 p 1\HMW 8 p 1\obj\Debug\HMW 8 p 1.csproj.CoreCompileInputs.cache
+C:\Users\fraga\source\repos\HMW 8 p 1\HMW 8 p 1\obj\Debug\HMW 8 p 1.exe
+C:\Users\fraga\source\repos\HMW 8 p 1\HMW 8 p 1\obj\Debug\HMW 8 p 1.pdb
