@@ -9,3 +9,14 @@ C:\Users\fraga\source\repos\HMW 8 p 2\HMW 8 p 2\obj\Debug\HMW 8 p 2.csproj.CoreC
 C:\Users\fraga\source\repos\HMW 8 p 2\HMW 8 p 2\obj\Debug\HMW 8 p 2.exe
 C:\Users\fraga\source\repos\HMW 8 p 2\HMW 8 p 2\obj\Debug\HMW 8 p 2.pdb
 C:\Users\fraga\source\repos\HMW 8 p 2\HMW 8 p 2\obj\Debug\HMW_8_p_2.Form1.resources
+C:\Users\fraga\OneDrive\Documenti\GitHub\Statistics-Homeworks\Homeworks 8\HMW 8 p 2\HMW 8 p 2\bin\Debug\HMW 8 p 2.exe.config
+C:\Users\fraga\OneDrive\Documenti\GitHub\Statistics-Homeworks\Homeworks 8\HMW 8 p 2\HMW 8 p 2\bin\Debug\HMW 8 p 2.exe
+C:\Users\fraga\OneDrive\Documenti\GitHub\Statistics-Homeworks\Homeworks 8\HMW 8 p 2\HMW 8 p 2\bin\Debug\HMW 8 p 2.pdb
+C:\Users\fraga\OneDrive\Documenti\GitHub\Statistics-Homeworks\Homeworks 8\HMW 8 p 2\HMW 8 p 2\obj\Debug\HMW 8 p 2.csproj.AssemblyReference.cache
+C:\Users\fraga\OneDrive\Documenti\GitHub\Statistics-Homeworks\Homeworks 8\HMW 8 p 2\HMW 8 p 2\obj\Debug\HMW 8 p 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\fraga\OneDrive\Documenti\GitHub\Statistics-Homeworks\Homeworks 8\HMW 8 p 2\HMW 8 p 2\obj\Debug\HMW_8_p_2.Form1.resources
+C:\Users\fraga\OneDrive\Documenti\GitHub\Statistics-Homeworks\Homeworks 8\HMW 8 p 2\HMW 8 p 2\obj\Debug\HMW_8_p_2.Properties.Resources.resources
+C:\Users\fraga\OneDrive\Documenti\GitHub\Statistics-Homeworks\Homeworks 8\HMW 8 p 2\HMW 8 p 2\obj\Debug\HMW 8 p 2.csproj.GenerateResource.cache
+C:\Users\fraga\OneDrive\Documenti\GitHub\Statistics-Homeworks\Homeworks 8\HMW 8 p 2\HMW 8 p 2\obj\Debug\HMW 8 p 2.csproj.CoreCompileInputs.cache
+C:\Users\fraga\OneDrive\Documenti\GitHub\Statistics-Homeworks\Homeworks 8\HMW 8 p 2\HMW 8 p 2\obj\Debug\HMW 8 p 2.exe
+C:\Users\fraga\OneDrive\Documenti\GitHub\Statistics-Homeworks\Homeworks 8\HMW 8 p 2\HMW 8 p 2\obj\Debug\HMW 8 p 2.pdb

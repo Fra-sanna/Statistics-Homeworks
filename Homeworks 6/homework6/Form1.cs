@@ -12,11 +12,11 @@ namespace homework6
     {
         Bitmap b;
         Graphics g;
-        Pen PenTrajectory = new Pen(Color.DarkGreen, 1);
 
         Bitmap bIsto;
         Graphics gIsto;
         Boolean boolWeight = true;
+        String tipo;
 
         public Form1()
         {
@@ -35,15 +35,17 @@ namespace homework6
             this.g.SmoothingMode = System.Drawing.Drawing2D.SmoothingMode.HighQuality;
             this.g.Clear(Color.White);
             this.richTextBox1.Clear();
+            this.richTextBox1.AppendText("\n" + tipo + "\n\n");
 
             Rectangle VirtualWindow = new Rectangle(0, 0, this.b.Width - 1, this.b.Height - 1);
             g.DrawRectangle(Pens.DarkSlateGray, VirtualWindow);
             int index = 1;
             Random r = new Random();
-            if (boolWeight) index = 1; //1 is weigth 2 is heigth
+            if (boolWeight) index = 1; 
             else index = 2;
 
-            int trialsnumber = 300, samplesize = 20; 
+            int trialsnumber = (int)numericUpDown1.Value;
+            int samplesize = (int)numericUpDown2.Value; 
             var valuestring = new List<double>();
 
             double minX = 0;
@@ -120,18 +122,17 @@ namespace homework6
                     Punti.Add(new Point(xDevice, YDevice));
                 }
 
-                
-
-                //g.DrawLines(PenTrajectory, Punti.ToArray());
-
             }
+            double help = 0.0;
             int n = 1;
                 foreach (double j in avglist)
                 {
-                    this.richTextBox1.AppendText("average of sample" + n.ToString() + ": " + j.ToString() + "\n");
+                    this.richTextBox1.AppendText("average of sample " + n.ToString() + ": " + j.ToString() + "\n");
+                    help += j;
                     n++;
                 }
-
+            help /= trialsnumber;
+            this.richTextBox1.AppendText("AVG: " + help.ToString());
             this.pictureBox1.Image = b;
 
             this.bIsto = new Bitmap(this.pictureBox1.Width, this.pictureBox1.Height);
@@ -146,7 +147,7 @@ namespace homework6
             double minAvg = avglist.Min();
             double maxAvg = avglist.Max();
             double delta = maxAvg - minAvg;
-            double nintervals = 20;
+            double nintervals = 25;
             double intervalsSize = delta / nintervals;
             Dictionary<double, int> istoDict = new Dictionary<double, int>();
 
@@ -186,7 +187,7 @@ namespace homework6
 
                 int nextWidthIstogram = (int)(widthIsto * idIsto * 1);
                 
-                SolidBrush the_brush = new SolidBrush(Color.Red);
+                SolidBrush the_brush = new SolidBrush(Color.Green);
                 gIsto.DrawRectangle(Pens.Black, isto);
                 gIsto.FillRectangle(the_brush, isto);
             }
@@ -223,11 +224,12 @@ namespace homework6
 
         private void button2_Click(object sender, EventArgs e)
         {
-            this.b = new Bitmap(this.pictureBox2.Width, this.pictureBox2.Height);
+            this.b = new Bitmap(this.pictureBox1.Width, this.pictureBox1.Height);
             this.g = Graphics.FromImage(b);
             this.g.SmoothingMode = System.Drawing.Drawing2D.SmoothingMode.HighQuality;
             this.g.Clear(Color.White);
             this.richTextBox1.Clear();
+            this.richTextBox1.AppendText("\n" + tipo + "\n\n");
 
 
             Rectangle VirtualWindow = new Rectangle(0, 0, this.b.Width - 1, this.b.Height - 1);
@@ -236,9 +238,10 @@ namespace homework6
             Random r = new Random();
             int index;
 
-            if (boolWeight) index = 1; //1 is weigth 2 is heigth
+            if (boolWeight) index = 1;
             else index = 2;
-            int trialsnumber = 300, samplesize = 20; 
+            int trialsnumber = (int)numericUpDown1.Value;
+            int samplesize = (int)numericUpDown2.Value;
             var valuestring = new List<double>();
 
             double minX = 0;
@@ -323,17 +326,20 @@ namespace homework6
                     Punti.Add(new Point(xDevice, YDevice));
                 }
                 
-                //g.DrawLines(PenTrajectory, Punti.ToArray());
 
 
 
             }
+            double help = 0.0;
             int n = 1;
                 foreach (double j in variancelist)
                 {
-                    this.richTextBox2.AppendText("variance of sample" + n.ToString() + ": " + j.ToString() + "\n");
+                    this.richTextBox1.AppendText("variance of sample " + n.ToString() + ": " + j.ToString() + "\n");
+                    help += j;
                     n++;
                 }
+            help /= trialsnumber;
+            this.richTextBox1.AppendText("VAR: " + help.ToString());
             this.pictureBox1.Image = b;
 
             this.bIsto = new Bitmap(this.pictureBox1.Width, this.pictureBox1.Height);
@@ -348,7 +354,7 @@ namespace homework6
             double minAvg = variancelist.Min();
             double maxAvg = variancelist.Max();
             double delta = maxAvg - minAvg;
-            double nintervals = 20;
+            double nintervals = 25;
             double intervalsSize = delta / nintervals;
 
             Dictionary<double, int> istoDict = new Dictionary<double, int>();
@@ -389,11 +395,11 @@ namespace homework6
 
                 int nextWidthIstogram = (int)(widthIsto * idIsto * 1);
 
-                SolidBrush the_brush = new SolidBrush(Color.Red);
+                SolidBrush the_brush = new SolidBrush(Color.Green);
                 gIsto.DrawRectangle(Pens.Black, isto);
                 gIsto.FillRectangle(the_brush, isto);
             }
-            this.pictureBox2.Image = bIsto;
+            this.pictureBox1.Image = bIsto;
  
         }
 
@@ -409,13 +415,14 @@ namespace homework6
 
         private void radioButton1_CheckedChanged(object sender, EventArgs e)
         {
-
+            boolWeight = true;
+            tipo = "WEIGHT";
         }
 
         private void radioButton2_CheckedChanged(object sender, EventArgs e)
         {
-            if (boolWeight) boolWeight = false;
-            else boolWeight = true;
+            boolWeight = false;
+            tipo = "HEIGHT";
         }
     }
 }

@@ -53,3 +53,14 @@ C:\Users\fraga\source\repos\StatisticsHomeworks_luca\HMW6\homework6\obj\Debug\ho
 C:\Users\fraga\source\repos\StatisticsHomeworks_luca\HMW6\homework6\obj\Debug\homework6.csproj.CoreCompileInputs.cache
 C:\Users\fraga\source\repos\StatisticsHomeworks_luca\HMW6\homework6\obj\Debug\homework6.exe
 C:\Users\fraga\source\repos\StatisticsHomeworks_luca\HMW6\homework6\obj\Debug\homework6.pdb
+C:\Users\fraga\OneDrive\Documenti\GitHub\Statistics-Homeworks\Homeworks 6\homework6\bin\Debug\homework6.exe.config
+C:\Users\fraga\OneDrive\Documenti\GitHub\Statistics-Homeworks\Homeworks 6\homework6\bin\Debug\homework6.exe
+C:\Users\fraga\OneDrive\Documenti\GitHub\Statistics-Homeworks\Homeworks 6\homework6\bin\Debug\homework6.pdb
+C:\Users\fraga\OneDrive\Documenti\GitHub\Statistics-Homeworks\Homeworks 6\homework6\obj\Debug\homework6.csproj.AssemblyReference.cache
+C:\Users\fraga\OneDrive\Documenti\GitHub\Statistics-Homeworks\Homeworks 6\homework6\obj\Debug\homework6.csproj.SuggestedBindingRedirects.cache
+C:\Users\fraga\OneDrive\Documenti\GitHub\Statistics-Homeworks\Homeworks 6\homework6\obj\Debug\homework6.Form1.resources
+C:\Users\fraga\OneDrive\Documenti\GitHub\Statistics-Homeworks\Homeworks 6\homework6\obj\Debug\homework6.Properties.Resources.resources
+C:\Users\fraga\OneDrive\Documenti\GitHub\Statistics-Homeworks\Homeworks 6\homework6\obj\Debug\homework6.csproj.GenerateResource.cache
+C:\Users\fraga\OneDrive\Documenti\GitHub\Statistics-Homeworks\Homeworks 6\homework6\obj\Debug\homework6.csproj.CoreCompileInputs.cache
+C:\Users\fraga\OneDrive\Documenti\GitHub\Statistics-Homeworks\Homeworks 6\homework6\obj\Debug\homework6.exe
+C:\Users\fraga\OneDrive\Documenti\GitHub\Statistics-Homeworks\Homeworks 6\homework6\obj\Debug\homework6.pdb
