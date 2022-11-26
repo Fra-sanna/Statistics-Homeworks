@@ -298,6 +298,7 @@ namespace HW7
                     this.Controls.Add(label);
 
                     gIstogram.DrawRectangle(Pens.Black, isto);
+                    gIstogram.FillRectangle(Brushes.Green, isto);
                 }
 
 
