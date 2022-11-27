@@ -18,8 +18,8 @@
         Me.g.Clear(Color.White)
         Me.g2.Clear(Color.White)
 
-        Dim TrialsCount As Integer = 200
-        Dim NumerOfTrajectories As Integer = 100
+        Dim TrialsCount As Integer = Me.NumericUpDown1.Value
+        Dim NumerOfTrajectories As Integer = Me.NumericUpDown2.Value
         Dim SuccessProbability As Double = 0.5
 
         Dim minX As Double = 0
@@ -30,8 +30,8 @@
 
         Dim VirtualWindow As New Rectangle(0, 0, Me.b.Width, Me.b.Height)
 
-        g.DrawRectangle(Pens.DarkSlateGray, VirtualWindow)
-        g2.DrawRectangle(Pens.DarkSlateGray, VirtualWindow)
+        g.DrawRectangle(Pens.Black, VirtualWindow)
+        g2.DrawRectangle(Pens.Black, VirtualWindow)
 
         Dim average As Integer
         Dim YDevice2 As Integer
@@ -68,8 +68,8 @@
         For Each item In dictaverage
             Dim i As Integer = 0
             Dim rect As New Rectangle(item.Key, 0, 1, item.Value)
-            Dim the_brush As New SolidBrush(Color.Red)
-            Dim the_pen As New Pen(Color.Red, 0)
+            Dim the_brush As New SolidBrush(Color.Green)
+            Dim the_pen As New Pen(Color.Green, 0)
             g2.FillRectangle(the_brush, rect)
             g2.DrawRectangle(the_pen, rect)
 
@@ -77,8 +77,8 @@
 
         For Each item In dictaverage
             Dim rect As New Rectangle(0, item.Key, item.Value, 1)
-            Dim the_brush As New SolidBrush(Color.Red)
-            Dim the_pen As New Pen(Color.Red, 0)
+            Dim the_brush As New SolidBrush(Color.Green)
+            Dim the_pen As New Pen(Color.Green, 0)
             g.FillRectangle(the_brush, rect)
             g.DrawRectangle(the_pen, rect)
 
@@ -94,6 +94,10 @@
     End Sub
 
     Private Sub PictureBox2_Click(sender As Object, e As EventArgs) Handles PictureBox2.Click
+
+    End Sub
+
+    Private Sub NumericUpDown2_ValueChanged(sender As Object, e As EventArgs) Handles NumericUpDown2.ValueChanged
 
     End Sub
 

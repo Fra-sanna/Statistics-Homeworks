@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fraga\\source\\repos\\StatisticsHomework22-23\\HW4\\HW4\\HW4.csproj",
+      "projectUniqueName": "C:\\Users\\fraga\\OneDrive\\Documenti\\GitHub\\Statistics-Homeworks\\Homeworks 4\\HW4\\HW4.csproj",
       "projectName": "HW4",
-      "projectPath": "C:\\Users\\fraga\\source\\repos\\StatisticsHomework22-23\\HW4\\HW4\\HW4.csproj",
+      "projectPath": "C:\\Users\\fraga\\OneDrive\\Documenti\\GitHub\\Statistics-Homeworks\\Homeworks 4\\HW4\\HW4.csproj",
       "packagesPath": "C:\\Users\\fraga\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fraga\\source\\repos\\StatisticsHomework22-23\\HW4\\HW4\\obj\\",
+      "outputPath": "C:\\Users\\fraga\\OneDrive\\Documenti\\GitHub\\Statistics-Homeworks\\Homeworks 4\\HW4\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

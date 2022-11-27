@@ -49,3 +49,20 @@ C:\Users\fraga\source\repos\StatisticsHomeworks\HMW5\App_MoveResizeRect_C\obj\De
 C:\Users\fraga\source\repos\StatisticsHomeworks\HMW5\App_MoveResizeRect_C\obj\Debug\net6.0-windows\App_MoveResizeRect_C.pdb
 C:\Users\fraga\source\repos\StatisticsHomeworks\HMW5\App_MoveResizeRect_C\obj\Debug\net6.0-windows\App_MoveResizeRect_C.genruntimeconfig.cache
 C:\Users\fraga\source\repos\StatisticsHomeworks\HMW5\App_MoveResizeRect_C\obj\Debug\net6.0-windows\ref\App_MoveResizeRect_C.dll
+C:\Users\fraga\OneDrive\Documenti\GitHub\Statistics-Homeworks\Homeworks 5\App_MoveResizeRect_C\bin\Debug\net6.0-windows\App_MoveResizeRect_C.exe
+C:\Users\fraga\OneDrive\Documenti\GitHub\Statistics-Homeworks\Homeworks 5\App_MoveResizeRect_C\bin\Debug\net6.0-windows\App_MoveResizeRect_C.deps.json
+C:\Users\fraga\OneDrive\Documenti\GitHub\Statistics-Homeworks\Homeworks 5\App_MoveResizeRect_C\bin\Debug\net6.0-windows\App_MoveResizeRect_C.runtimeconfig.json
+C:\Users\fraga\OneDrive\Documenti\GitHub\Statistics-Homeworks\Homeworks 5\App_MoveResizeRect_C\bin\Debug\net6.0-windows\App_MoveResizeRect_C.dll
+C:\Users\fraga\OneDrive\Documenti\GitHub\Statistics-Homeworks\Homeworks 5\App_MoveResizeRect_C\bin\Debug\net6.0-windows\App_MoveResizeRect_C.pdb
+C:\Users\fraga\OneDrive\Documenti\GitHub\Statistics-Homeworks\Homeworks 5\App_MoveResizeRect_C\obj\Debug\net6.0-windows\App_MoveResizeRect_C.csproj.AssemblyReference.cache
+C:\Users\fraga\OneDrive\Documenti\GitHub\Statistics-Homeworks\Homeworks 5\App_MoveResizeRect_C\obj\Debug\net6.0-windows\App_MoveResizeRect_C.Form1.resources
+C:\Users\fraga\OneDrive\Documenti\GitHub\Statistics-Homeworks\Homeworks 5\App_MoveResizeRect_C\obj\Debug\net6.0-windows\App_MoveResizeRect_C.csproj.GenerateResource.cache
+C:\Users\fraga\OneDrive\Documenti\GitHub\Statistics-Homeworks\Homeworks 5\App_MoveResizeRect_C\obj\Debug\net6.0-windows\App_MoveResizeRect_C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fraga\OneDrive\Documenti\GitHub\Statistics-Homeworks\Homeworks 5\App_MoveResizeRect_C\obj\Debug\net6.0-windows\App_MoveResizeRect_C.AssemblyInfoInputs.cache
+C:\Users\fraga\OneDrive\Documenti\GitHub\Statistics-Homeworks\Homeworks 5\App_MoveResizeRect_C\obj\Debug\net6.0-windows\App_MoveResizeRect_C.AssemblyInfo.cs
+C:\Users\fraga\OneDrive\Documenti\GitHub\Statistics-Homeworks\Homeworks 5\App_MoveResizeRect_C\obj\Debug\net6.0-windows\App_MoveResizeRect_C.csproj.CoreCompileInputs.cache
+C:\Users\fraga\OneDrive\Documenti\GitHub\Statistics-Homeworks\Homeworks 5\App_MoveResizeRect_C\obj\Debug\net6.0-windows\App_MoveResizeRect_C.dll
+C:\Users\fraga\OneDrive\Documenti\GitHub\Statistics-Homeworks\Homeworks 5\App_MoveResizeRect_C\obj\Debug\net6.0-windows\refint\App_MoveResizeRect_C.dll
+C:\Users\fraga\OneDrive\Documenti\GitHub\Statistics-Homeworks\Homeworks 5\App_MoveResizeRect_C\obj\Debug\net6.0-windows\App_MoveResizeRect_C.pdb
+C:\Users\fraga\OneDrive\Documenti\GitHub\Statistics-Homeworks\Homeworks 5\App_MoveResizeRect_C\obj\Debug\net6.0-windows\App_MoveResizeRect_C.genruntimeconfig.cache
+C:\Users\fraga\OneDrive\Documenti\GitHub\Statistics-Homeworks\Homeworks 5\App_MoveResizeRect_C\obj\Debug\net6.0-windows\ref\App_MoveResizeRect_C.dll

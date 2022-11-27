@@ -24,3 +24,16 @@ C:\Users\fraga\source\repos\StatisticsHomeworks\HMW5\istogrammi\istogrammi\obj\D
 C:\Users\fraga\source\repos\StatisticsHomeworks\HMW5\istogrammi\istogrammi\obj\Debug\istogrammi.exe
 C:\Users\fraga\source\repos\StatisticsHomeworks\HMW5\istogrammi\istogrammi\obj\Debug\istogrammi.xml
 C:\Users\fraga\source\repos\StatisticsHomeworks\HMW5\istogrammi\istogrammi\obj\Debug\istogrammi.pdb
+C:\Users\fraga\OneDrive\Documenti\GitHub\Statistics-Homeworks\Homeworks 5\istogrammi\istogrammi\bin\Debug\istogrammi.exe.config
+C:\Users\fraga\OneDrive\Documenti\GitHub\Statistics-Homeworks\Homeworks 5\istogrammi\istogrammi\bin\Debug\istogrammi.exe
+C:\Users\fraga\OneDrive\Documenti\GitHub\Statistics-Homeworks\Homeworks 5\istogrammi\istogrammi\bin\Debug\istogrammi.pdb
+C:\Users\fraga\OneDrive\Documenti\GitHub\Statistics-Homeworks\Homeworks 5\istogrammi\istogrammi\bin\Debug\istogrammi.xml
+C:\Users\fraga\OneDrive\Documenti\GitHub\Statistics-Homeworks\Homeworks 5\istogrammi\istogrammi\obj\Debug\istogrammi.vbproj.AssemblyReference.cache
+C:\Users\fraga\OneDrive\Documenti\GitHub\Statistics-Homeworks\Homeworks 5\istogrammi\istogrammi\obj\Debug\istogrammi.vbproj.SuggestedBindingRedirects.cache
+C:\Users\fraga\OneDrive\Documenti\GitHub\Statistics-Homeworks\Homeworks 5\istogrammi\istogrammi\obj\Debug\istogrammi.Form1.resources
+C:\Users\fraga\OneDrive\Documenti\GitHub\Statistics-Homeworks\Homeworks 5\istogrammi\istogrammi\obj\Debug\istogrammi.Resources.resources
+C:\Users\fraga\OneDrive\Documenti\GitHub\Statistics-Homeworks\Homeworks 5\istogrammi\istogrammi\obj\Debug\istogrammi.vbproj.GenerateResource.cache
+C:\Users\fraga\OneDrive\Documenti\GitHub\Statistics-Homeworks\Homeworks 5\istogrammi\istogrammi\obj\Debug\istogrammi.vbproj.CoreCompileInputs.cache
+C:\Users\fraga\OneDrive\Documenti\GitHub\Statistics-Homeworks\Homeworks 5\istogrammi\istogrammi\obj\Debug\istogrammi.exe
+C:\Users\fraga\OneDrive\Documenti\GitHub\Statistics-Homeworks\Homeworks 5\istogrammi\istogrammi\obj\Debug\istogrammi.xml
+C:\Users\fraga\OneDrive\Documenti\GitHub\Statistics-Homeworks\Homeworks 5\istogrammi\istogrammi\obj\Debug\istogrammi.pdb

@@ -32,7 +32,7 @@ namespace App_MoveResizeRect_C
 
             r = new Rectangle(20, 20, 500, 300);
 
-            g.DrawRectangle(Pens.Red, r);
+            g.DrawRectangle(Pens.Green, r);
             pictureBox1.Image = b;
         }
 
@@ -112,7 +112,7 @@ namespace App_MoveResizeRect_C
         {
             g.Clear(Color.White);
 
-            g.DrawRectangle(Pens.Red, r);
+            g.DrawRectangle(Pens.Green, r);
             pictureBox1.Image = b;
         }
 

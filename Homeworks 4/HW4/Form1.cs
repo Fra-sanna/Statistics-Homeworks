@@ -22,7 +22,6 @@ namespace HW4
 
         private void button1_Click(object sender, EventArgs e)
         {
-            //COMPUTE RELATIVE FREQUENCY
             this.b = new Bitmap(this.pictureBox1.Width, this.pictureBox1.Height);
             this.g = Graphics.FromImage(b);
             this.g.SmoothingMode = System.Drawing.Drawing2D.SmoothingMode.HighQuality;
@@ -61,7 +60,6 @@ namespace HW4
                     int yDevice = FromYRealToYVirtual(yRelative, minY, maxY, VirtualWindow.Top, VirtualWindow.Height);
                     Punti.Add(new Point(xDevice, yDevice));
 
-                    //to create the istogram
                     if (x == Trials)
                     {
                         LastY.Add(yDevice);
@@ -79,7 +77,6 @@ namespace HW4
 
             Dictionary<double, int> intervals = new Dictionary<double, int>();
 
-            //create the intervals first [0,4] second [5,9] then [10,14].... 
             double startingInter = 2.5;
             double inter = startingInter;
             int debug = 0;
@@ -89,7 +86,6 @@ namespace HW4
                 inter = inter + (startingInter * 2);
             }
 
-            //for each y in the List, create intervals.
             foreach (int coordY in LastY)
             {
                 foreach (double key in intervals.Keys)
@@ -102,8 +98,6 @@ namespace HW4
                 }
             }
 
-            //proporzionare
-
             int max = 0;
 
             foreach (double key in intervals.Keys)
@@ -111,10 +105,6 @@ namespace HW4
                 max += intervals[key];
             }
 
-            //intervals[key] / max = x / width 
-            //x = intervals[key] * width / max 
-
-            //create the rectangles
             int numberofinterval = 0;
             foreach (double key in intervals.Keys)
             {
@@ -157,7 +147,6 @@ namespace HW4
 
         private void button2_Click(object sender, EventArgs e)
         {
-            //COMPUTE ABSOLUTE FREQUENCY
             this.b = new Bitmap(this.pictureBox1.Width, this.pictureBox1.Height);
             this.g = Graphics.FromImage(b);
             this.g.SmoothingMode = System.Drawing.Drawing2D.SmoothingMode.HighQuality;
@@ -194,7 +183,6 @@ namespace HW4
                     int yDevice = FromYRealToYVirtual(y, minY, maxY, VirtualWindow.Top, VirtualWindow.Height);
                     Punti.Add(new Point(xDevice, yDevice));
 
-                    //to create the istogram
                     if (x == Trials)
                     {
                         LastY.Add(yDevice);
@@ -211,7 +199,6 @@ namespace HW4
 
             Dictionary<double, int> intervals = new Dictionary<double, int>();
 
-            //create the intervals first [0,4] second [5,9] then [10,14].... 
             double startingInter = 2.5;
             double inter = startingInter;
             int debug = 0;
@@ -221,7 +208,6 @@ namespace HW4
                 inter = inter + (startingInter * 2);
             }
 
-            //for each y in the List, create intervals.
             foreach (int coordY in LastY)
             {
                 foreach (double key in intervals.Keys)
@@ -234,8 +220,6 @@ namespace HW4
                 }
             }
 
-            //proporzionare
-
             int max = 0;
 
             foreach (double key in intervals.Keys)
@@ -243,10 +227,6 @@ namespace HW4
                 max += intervals[key];
             }
 
-            //intervals[key] / max = x / width 
-            //x = intervals[key] * width / max 
-
-            //create the rectangles
             int numberofinterval = 0;
             foreach (double key in intervals.Keys)
             {
@@ -263,7 +243,6 @@ namespace HW4
 
         private void button3_Click(object sender, EventArgs e)
         {
-            //COMPUTE NORMALIZED FREQUENCY
             this.b = new Bitmap(this.pictureBox1.Width, this.pictureBox1.Height);
             this.g = Graphics.FromImage(b);
             this.g.SmoothingMode = System.Drawing.Drawing2D.SmoothingMode.HighQuality;
@@ -300,7 +279,6 @@ namespace HW4
                     int yDevice = FromYRealToYVirtual(yNormalized, minY, maxY, VirtualWindow.Top, VirtualWindow.Height);
                     Punti.Add(new Point(xDevice, yDevice));
 
-                    //to create the istogram
                     if (x == Trials)
                     {
                         LastY.Add(yDevice);
@@ -316,8 +294,7 @@ namespace HW4
             this.gIstogram.Clear(Color.White);
 
             Dictionary<double, int> intervals = new Dictionary<double, int>();
-
-            //create the intervals first [0,4] second [5,9] then [10,14].... 
+ 
             double startingInter = 2.5;
             double inter = startingInter;
             int debug = 0;
@@ -327,7 +304,6 @@ namespace HW4
                 inter = inter + (startingInter * 2);
             }
 
-            //for each y in the List, create intervals.
             foreach (int coordY in LastY)
             {
                 foreach (double key in intervals.Keys)
@@ -339,7 +315,6 @@ namespace HW4
                     }
                 }
             }
-            //proporzionare
 
             int max = 0;
 
@@ -348,10 +323,6 @@ namespace HW4
                 max += intervals[key];
             }
 
-            //intervals[key] / max = x / width 
-            //x = intervals[key] * width / max 
-
-            //create the rectangles
             int numberofinterval = 0;
             foreach (double key in intervals.Keys)
             {
@@ -420,7 +391,6 @@ namespace HW4
                     int yDeviceN = FromYRealToYVirtual(yNormalized, minY, maxY/Math.Sqrt(Trials), VirtualWindow.Top, VirtualWindow.Height);
                     PuntiN.Add(new Point(xDevice, yDeviceN));
 
-                    //to create the istogram
                     if (x == Trials)
                     {
                         LastY.Add(yDeviceR);
@@ -445,8 +415,7 @@ namespace HW4
             this.gIstogram.Clear(Color.White);
 
             Dictionary<double, int> intervals = new Dictionary<double, int>();
-
-            //create the intervals first [0,4] second [5,9] then [10,14].... 
+ 
             double startingInter = 2.5;
             double inter = startingInter;
             int debug = 0;
@@ -456,7 +425,6 @@ namespace HW4
                 inter = inter + (startingInter * 2);
             }
 
-            //for each y in the List, create intervals.
             foreach (int coordY in LastY)
             {
                 foreach (double key in intervals.Keys)
@@ -469,8 +437,6 @@ namespace HW4
                 }
             }
 
-            //proporzionare
-
             int max = 0;
 
             foreach (double key in intervals.Keys)
@@ -478,10 +444,6 @@ namespace HW4
                 max += intervals[key];
             }
 
-            //intervals[key] / max = x / width 
-            //x = intervals[key] * width / max 
-
-            //create the rectangles
             int numberofinterval = 0;
             foreach (double key in intervals.Keys)
             {
@@ -489,7 +451,7 @@ namespace HW4
                 numberofinterval++;
 
                 gIstogram.DrawRectangle(Pens.Black, VirtualWindow1);
-                gIstogram.FillRectangle(Brushes.Blue, VirtualWindow1);
+                gIstogram.FillRectangle(Brushes.Green, VirtualWindow1);
             }
 
 
