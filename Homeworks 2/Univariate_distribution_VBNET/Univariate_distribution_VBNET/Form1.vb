@@ -8,7 +8,7 @@ Public Class Form1
         Me.RichTextBox1.AppendText("Calculating the univariate distribution of the students' age: " & vbLf)
         Me.RichTextBox1.ScrollToCaret()
 
-        Using parser As TextFieldParser = New TextFieldParser("C:\Users\luca1\Documents\GitHub\StatisticsHomeworks\HMW2\student_statistics.csv.csv")
+        Using parser As TextFieldParser = New TextFieldParser("C:\Users\fraga\OneDrive\Documenti\GitHub\Statistics-Homeworks\Homeworks 2\student_statistics.csv.csv")
             parser.TextFieldType = FieldType.Delimited
             parser.SetDelimiters(",")
             Dim header As String() = parser.ReadFields()
@@ -42,5 +42,9 @@ Public Class Form1
 
     Private Sub RichTextBox1_TextChanged(sender As Object, e As EventArgs) Handles RichTextBox1.TextChanged
 
+    End Sub
+
+    Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
+        Me.RichTextBox1.Clear()
     End Sub
 End Class

@@ -11,3 +11,16 @@ C:\Users\luca1\source\repos\Homework 1 VB.NET\Homework 1 VB.NET\obj\Debug\Homewo
 C:\Users\luca1\source\repos\Homework 1 VB.NET\Homework 1 VB.NET\obj\Debug\Homework 1 VB.NET.exe
 C:\Users\luca1\source\repos\Homework 1 VB.NET\Homework 1 VB.NET\obj\Debug\Homework 1 VB.NET.xml
 C:\Users\luca1\source\repos\Homework 1 VB.NET\Homework 1 VB.NET\obj\Debug\Homework 1 VB.NET.pdb
+C:\Users\fraga\OneDrive\Documenti\GitHub\Statistics-Homeworks\Homeworks 1\Homework 1 VB.NET\Homework 1 VB.NET\bin\Debug\Homework 1 VB.NET.exe.config
+C:\Users\fraga\OneDrive\Documenti\GitHub\Statistics-Homeworks\Homeworks 1\Homework 1 VB.NET\Homework 1 VB.NET\bin\Debug\Homework 1 VB.NET.exe
+C:\Users\fraga\OneDrive\Documenti\GitHub\Statistics-Homeworks\Homeworks 1\Homework 1 VB.NET\Homework 1 VB.NET\bin\Debug\Homework 1 VB.NET.pdb
+C:\Users\fraga\OneDrive\Documenti\GitHub\Statistics-Homeworks\Homeworks 1\Homework 1 VB.NET\Homework 1 VB.NET\bin\Debug\Homework 1 VB.NET.xml
+C:\Users\fraga\OneDrive\Documenti\GitHub\Statistics-Homeworks\Homeworks 1\Homework 1 VB.NET\Homework 1 VB.NET\obj\Debug\Homework 1 VB.NET.vbproj.AssemblyReference.cache
+C:\Users\fraga\OneDrive\Documenti\GitHub\Statistics-Homeworks\Homeworks 1\Homework 1 VB.NET\Homework 1 VB.NET\obj\Debug\Homework 1 VB.NET.vbproj.SuggestedBindingRedirects.cache
+C:\Users\fraga\OneDrive\Documenti\GitHub\Statistics-Homeworks\Homeworks 1\Homework 1 VB.NET\Homework 1 VB.NET\obj\Debug\Homework_1_VB.NET.Form1.resources
+C:\Users\fraga\OneDrive\Documenti\GitHub\Statistics-Homeworks\Homeworks 1\Homework 1 VB.NET\Homework 1 VB.NET\obj\Debug\Homework_1_VB.NET.Resources.resources
+C:\Users\fraga\OneDrive\Documenti\GitHub\Statistics-Homeworks\Homeworks 1\Homework 1 VB.NET\Homework 1 VB.NET\obj\Debug\Homework 1 VB.NET.vbproj.GenerateResource.cache
+C:\Users\fraga\OneDrive\Documenti\GitHub\Statistics-Homeworks\Homeworks 1\Homework 1 VB.NET\Homework 1 VB.NET\obj\Debug\Homework 1 VB.NET.vbproj.CoreCompileInputs.cache
+C:\Users\fraga\OneDrive\Documenti\GitHub\Statistics-Homeworks\Homeworks 1\Homework 1 VB.NET\Homework 1 VB.NET\obj\Debug\Homework 1 VB.NET.exe
+C:\Users\fraga\OneDrive\Documenti\GitHub\Statistics-Homeworks\Homeworks 1\Homework 1 VB.NET\Homework 1 VB.NET\obj\Debug\Homework 1 VB.NET.xml
+C:\Users\fraga\OneDrive\Documenti\GitHub\Statistics-Homeworks\Homeworks 1\Homework 1 VB.NET\Homework 1 VB.NET\obj\Debug\Homework 1 VB.NET.pdb

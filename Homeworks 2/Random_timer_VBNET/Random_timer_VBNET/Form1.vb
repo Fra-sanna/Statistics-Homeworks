@@ -1,7 +1,7 @@
 ﻿Imports System.Windows.Forms.VisualStyles.VisualStyleElement.ProgressBar
 
 Public Class Form1
-    Public t As New Timer  'oppure puoi trascinare un componente sul form e poi ritrovarlo qui'
+    Public t As New Timer
     Public r As New Random
     Public sum As Double = 0
     Public count As Integer = 0
@@ -22,7 +22,7 @@ Public Class Form1
             Media += valorecasuale
             Me.RichTextBox1.AppendText(Environment.NewLine & r.NextDouble)
 
-        Next 'incrementatore'
+        Next
 
         Media /= numerovalori
 
@@ -38,7 +38,7 @@ Public Class Form1
     End Sub
 
     Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
-        Me.Timer1.Start() 'oppure me.timer.enable=true'
+        Me.Timer1.Start()
     End Sub
 
     Private Sub Button3_Click(sender As Object, e As EventArgs) Handles Button3.Click
@@ -47,5 +47,9 @@ Public Class Form1
 
     Private Sub RichTextBox1_TextChanged(sender As Object, e As EventArgs) Handles RichTextBox1.TextChanged
 
+    End Sub
+
+    Private Sub Button4_Click(sender As Object, e As EventArgs) Handles Button4.Click
+        Me.RichTextBox1.Clear()
     End Sub
 End Class

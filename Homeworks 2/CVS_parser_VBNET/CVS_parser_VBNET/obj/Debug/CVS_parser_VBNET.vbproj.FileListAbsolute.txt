@@ -11,3 +11,16 @@ C:\Users\luca1\source\repos\CVS_parser_VBNET\CVS_parser_VBNET\obj\Debug\CVS_pars
 C:\Users\luca1\source\repos\CVS_parser_VBNET\CVS_parser_VBNET\obj\Debug\CVS_parser_VBNET.exe
 C:\Users\luca1\source\repos\CVS_parser_VBNET\CVS_parser_VBNET\obj\Debug\CVS_parser_VBNET.xml
 C:\Users\luca1\source\repos\CVS_parser_VBNET\CVS_parser_VBNET\obj\Debug\CVS_parser_VBNET.pdb
+C:\Users\fraga\OneDrive\Documenti\GitHub\Statistics-Homeworks\Homeworks 2\CVS_parser_VBNET\CVS_parser_VBNET\bin\Debug\CVS_parser_VBNET.exe.config
+C:\Users\fraga\OneDrive\Documenti\GitHub\Statistics-Homeworks\Homeworks 2\CVS_parser_VBNET\CVS_parser_VBNET\bin\Debug\CVS_parser_VBNET.exe
+C:\Users\fraga\OneDrive\Documenti\GitHub\Statistics-Homeworks\Homeworks 2\CVS_parser_VBNET\CVS_parser_VBNET\bin\Debug\CVS_parser_VBNET.pdb
+C:\Users\fraga\OneDrive\Documenti\GitHub\Statistics-Homeworks\Homeworks 2\CVS_parser_VBNET\CVS_parser_VBNET\bin\Debug\CVS_parser_VBNET.xml
+C:\Users\fraga\OneDrive\Documenti\GitHub\Statistics-Homeworks\Homeworks 2\CVS_parser_VBNET\CVS_parser_VBNET\obj\Debug\CVS_parser_VBNET.vbproj.AssemblyReference.cache
+C:\Users\fraga\OneDrive\Documenti\GitHub\Statistics-Homeworks\Homeworks 2\CVS_parser_VBNET\CVS_parser_VBNET\obj\Debug\CVS_parser_VBNET.vbproj.SuggestedBindingRedirects.cache
+C:\Users\fraga\OneDrive\Documenti\GitHub\Statistics-Homeworks\Homeworks 2\CVS_parser_VBNET\CVS_parser_VBNET\obj\Debug\CVS_parser_VBNET.Form1.resources
+C:\Users\fraga\OneDrive\Documenti\GitHub\Statistics-Homeworks\Homeworks 2\CVS_parser_VBNET\CVS_parser_VBNET\obj\Debug\CVS_parser_VBNET.Resources.resources
+C:\Users\fraga\OneDrive\Documenti\GitHub\Statistics-Homeworks\Homeworks 2\CVS_parser_VBNET\CVS_parser_VBNET\obj\Debug\CVS_parser_VBNET.vbproj.GenerateResource.cache
+C:\Users\fraga\OneDrive\Documenti\GitHub\Statistics-Homeworks\Homeworks 2\CVS_parser_VBNET\CVS_parser_VBNET\obj\Debug\CVS_parser_VBNET.vbproj.CoreCompileInputs.cache
+C:\Users\fraga\OneDrive\Documenti\GitHub\Statistics-Homeworks\Homeworks 2\CVS_parser_VBNET\CVS_parser_VBNET\obj\Debug\CVS_parser_VBNET.exe
+C:\Users\fraga\OneDrive\Documenti\GitHub\Statistics-Homeworks\Homeworks 2\CVS_parser_VBNET\CVS_parser_VBNET\obj\Debug\CVS_parser_VBNET.xml
+C:\Users\fraga\OneDrive\Documenti\GitHub\Statistics-Homeworks\Homeworks 2\CVS_parser_VBNET\CVS_parser_VBNET\obj\Debug\CVS_parser_VBNET.pdb

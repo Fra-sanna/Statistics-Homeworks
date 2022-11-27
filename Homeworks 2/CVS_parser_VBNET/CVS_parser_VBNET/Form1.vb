@@ -2,8 +2,7 @@
 
 Public Class Form1
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
-        Using parser As TextFieldParser = New TextFieldParser("C:\Users\luca1\Documents\GitHub\StatisticsHomeworks\HMW2\student_statistics.csv.csv")
-            'il percorso del file csv è da cambiare se eseguito in computer diverso'
+        Using parser As TextFieldParser = New TextFieldParser("C:\Users\fraga\OneDrive\Documenti\GitHub\Statistics-Homeworks\Homeworks 2\student_statistics.csv.csv")
             parser.TextFieldType = FieldType.Delimited
             parser.SetDelimiters(",")
 
@@ -22,5 +21,9 @@ Public Class Form1
 
     Private Sub RichTextBox1_TextChanged(sender As Object, e As EventArgs) Handles RichTextBox1.TextChanged
 
+    End Sub
+
+    Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
+        Me.RichTextBox1.Clear()
     End Sub
 End Class

@@ -24,30 +24,43 @@ Partial Class Form1
     Private Sub InitializeComponent()
         Me.RichTextBox1 = New System.Windows.Forms.RichTextBox()
         Me.Button1 = New System.Windows.Forms.Button()
+        Me.Button2 = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
         'RichTextBox1
         '
-        Me.RichTextBox1.Location = New System.Drawing.Point(28, 80)
+        Me.RichTextBox1.Location = New System.Drawing.Point(224, 32)
         Me.RichTextBox1.Name = "RichTextBox1"
-        Me.RichTextBox1.Size = New System.Drawing.Size(750, 358)
+        Me.RichTextBox1.Size = New System.Drawing.Size(701, 468)
         Me.RichTextBox1.TabIndex = 0
         Me.RichTextBox1.Text = ""
         '
         'Button1
         '
-        Me.Button1.Location = New System.Drawing.Point(28, 35)
+        Me.Button1.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.0!)
+        Me.Button1.Location = New System.Drawing.Point(28, 162)
         Me.Button1.Name = "Button1"
-        Me.Button1.Size = New System.Drawing.Size(136, 23)
+        Me.Button1.Size = New System.Drawing.Size(165, 63)
         Me.Button1.TabIndex = 1
-        Me.Button1.Text = "Read CSV"
+        Me.Button1.Text = "START"
         Me.Button1.UseVisualStyleBackColor = True
+        '
+        'Button2
+        '
+        Me.Button2.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.0!)
+        Me.Button2.Location = New System.Drawing.Point(28, 275)
+        Me.Button2.Name = "Button2"
+        Me.Button2.Size = New System.Drawing.Size(165, 63)
+        Me.Button2.TabIndex = 2
+        Me.Button2.Text = "CLEAN"
+        Me.Button2.UseVisualStyleBackColor = True
         '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(800, 450)
+        Me.ClientSize = New System.Drawing.Size(937, 513)
+        Me.Controls.Add(Me.Button2)
         Me.Controls.Add(Me.Button1)
         Me.Controls.Add(Me.RichTextBox1)
         Me.Name = "Form1"
@@ -58,4 +71,5 @@ Partial Class Form1
 
     Friend WithEvents RichTextBox1 As RichTextBox
     Friend WithEvents Button1 As Button
+    Friend WithEvents Button2 As Button
 End Class

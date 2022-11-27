@@ -28,11 +28,13 @@ Partial Class Form1
         Me.Button3 = New System.Windows.Forms.Button()
         Me.RichTextBox1 = New System.Windows.Forms.RichTextBox()
         Me.Timer1 = New System.Windows.Forms.Timer(Me.components)
+        Me.Button4 = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
         'Button1
         '
-        Me.Button1.Location = New System.Drawing.Point(54, 80)
+        Me.Button1.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.0!)
+        Me.Button1.Location = New System.Drawing.Point(54, 77)
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(203, 38)
         Me.Button1.TabIndex = 0
@@ -41,38 +43,52 @@ Partial Class Form1
         '
         'Button2
         '
-        Me.Button2.Location = New System.Drawing.Point(54, 184)
+        Me.Button2.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.0!)
+        Me.Button2.Location = New System.Drawing.Point(54, 165)
         Me.Button2.Name = "Button2"
-        Me.Button2.Size = New System.Drawing.Size(97, 38)
+        Me.Button2.Size = New System.Drawing.Size(203, 38)
         Me.Button2.TabIndex = 1
         Me.Button2.Text = "start stream"
         Me.Button2.UseVisualStyleBackColor = True
         '
         'Button3
         '
-        Me.Button3.Location = New System.Drawing.Point(54, 291)
+        Me.Button3.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.0!)
+        Me.Button3.Location = New System.Drawing.Point(54, 253)
         Me.Button3.Name = "Button3"
-        Me.Button3.Size = New System.Drawing.Size(97, 38)
+        Me.Button3.Size = New System.Drawing.Size(203, 38)
         Me.Button3.TabIndex = 2
         Me.Button3.Text = "stop stream"
         Me.Button3.UseVisualStyleBackColor = True
         '
         'RichTextBox1
         '
-        Me.RichTextBox1.Location = New System.Drawing.Point(275, 80)
+        Me.RichTextBox1.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.0!)
+        Me.RichTextBox1.Location = New System.Drawing.Point(294, 25)
         Me.RichTextBox1.Name = "RichTextBox1"
-        Me.RichTextBox1.Size = New System.Drawing.Size(513, 249)
+        Me.RichTextBox1.Size = New System.Drawing.Size(639, 406)
         Me.RichTextBox1.TabIndex = 3
         Me.RichTextBox1.Text = ""
         '
         'Timer1
         '
         '
+        'Button4
+        '
+        Me.Button4.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.0!)
+        Me.Button4.Location = New System.Drawing.Point(54, 341)
+        Me.Button4.Name = "Button4"
+        Me.Button4.Size = New System.Drawing.Size(203, 38)
+        Me.Button4.TabIndex = 4
+        Me.Button4.Text = "Clean"
+        Me.Button4.UseVisualStyleBackColor = True
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(800, 450)
+        Me.ClientSize = New System.Drawing.Size(945, 496)
+        Me.Controls.Add(Me.Button4)
         Me.Controls.Add(Me.RichTextBox1)
         Me.Controls.Add(Me.Button3)
         Me.Controls.Add(Me.Button2)
@@ -88,4 +104,5 @@ Partial Class Form1
     Friend WithEvents Button3 As Button
     Friend WithEvents RichTextBox1 As RichTextBox
     Friend WithEvents Timer1 As Timer
+    Friend WithEvents Button4 As Button
 End Class
